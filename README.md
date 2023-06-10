@@ -1,4 +1,4 @@
-# PowerBI_dashboard
+# PowerBI_dashboard Project
 I have created this interactive sales analytics dashboard using the powerful business intelligence tool, #powerbi .
 
 
